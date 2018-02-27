@@ -6,13 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.owner.assignment6_favcontacts.MainActivity"><![CDATA[
-
-
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
-    ]]>
+    tools:context="com.example.owner.assignment6_favcontacts.MainActivity">
 
     <TextView
         android:layout_width="match_parent"
