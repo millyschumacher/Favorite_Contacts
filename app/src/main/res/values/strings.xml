@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">assignment6_favcontacts</string>
+    <string name="fav1">Pookie</string>
+    <string name="fav2">Devi</string>
+    <string name="fav3">Gramma</string>
+    <string name="fav1_number">6513308205</string>
+    <string name="fav2_number">7185512325</string>
+    <string name="fav3_number">7185847457</string>
+    <string-array name="texts">
+        <item>Hi</item>
+        <item>At work.</item>
+        <item>Heading out now.</item>
+        <item>XOXO</item>
+        <item>About to drive.</item>
+    </string-array>
+</resources>
