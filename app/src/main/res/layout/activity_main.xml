@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="113dp"
-        android:text="Favorite Contacts"
+        android:text="@string/favorite_contacts"
         android:textAppearance="@android:style/TextAppearance.Large" />
 
     <LinearLayout
@@ -52,7 +52,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:text="Select a message: "
+            android:text="@string/select_message"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
 
         <Spinner
@@ -74,14 +74,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Call" />
+            android:text="@string/btn_call" />
 
         <Button
             android:id="@+id/button1Text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Text" />
+            android:text="@string/btn_text" />
 
     </LinearLayout>
 
@@ -121,7 +121,7 @@
             android:layout_width="100dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:text="Select a message: "
+            android:text="@string/select_a_message"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
 
         <Spinner
@@ -143,14 +143,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Call" />
+            android:text="@string/call_btn" />
 
         <Button
             android:id="@+id/button2Text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Text" />
+            android:text="@string/text_btn" />
 
     </LinearLayout>
 
@@ -190,7 +190,7 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Select a message: "
+            android:text="@string/selectmessage"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
 
         <Spinner
@@ -212,14 +212,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Call" />
+            android:text="@string/callbtn" />
 
         <Button
             android:id="@+id/button3Text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Text" />
+            android:text="@string/textbtn" />
 
     </LinearLayout>
 

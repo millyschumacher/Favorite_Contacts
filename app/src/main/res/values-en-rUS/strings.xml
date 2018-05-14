@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">assignment6_favcontacts</string>
     <string name="fav1">Pookie</string>
-    <string name="fav2" translatable="false">Devi</string>
+    <string name="fav2">Devi</string>
     <string name="fav3">Gramma</string>
     <string name="fav1_number">6513308205</string>
     <string name="fav2_number">7185512325</string>
@@ -12,10 +13,10 @@
     <string name="btn_text">Text</string>
     <string name="select_a_message">Select a message:</string>
     <string name="call_btn">Call</string>
-    <string name="text_btn">Text</string>
     <string name="selectmessage">Select a message:</string>
-    <string name="callbtn">Call</string>
     <string name="textbtn">Text</string>
+    <string name="text_btn">Text</string>
+    <string name="callbtn">Call</string>
     <string-array name="texts">
         <item>Hi</item>
         <item>At work.</item>
